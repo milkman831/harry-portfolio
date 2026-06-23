@@ -3,7 +3,7 @@
 @import "tailwindcss";
 
 :root {
-  --bg-primary: #000000;
+  --bg-primary:  #050d1a;
   --bg-secondary: #1a1a1a;
   --bg-card: #141414;
   --border: rgba(255, 255, 255, 0.06);
