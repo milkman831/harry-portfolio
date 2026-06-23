@@ -9,7 +9,7 @@ const icons = [IconSearch, IconCode, IconWriting, IconBrain, IconShieldCheck, Ic
 
 export default function AIStatement() {
   return (
-    <section id="ai-statement" className="section-padding bg-[#0d0d0d]">
+    <section id="ai-statement" className="section-padding">
       <div className="max-w-6xl mx-auto px-16">
         <SectionHeader
           eyebrow="AI & Me"

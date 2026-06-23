@@ -7,7 +7,7 @@ import { IconBrandGithub, IconExternalLink, IconCode, IconRobot } from "@tabler/
 
 export default function Projects() {
   return (
-    <section id="projects" className="section-padding bg-[#0d0d0d]">
+    <section id="projects" className="section-padding">
       <div className="max-w-6xl mx-auto px-6">
         <SectionHeader
           eyebrow="Projects"
